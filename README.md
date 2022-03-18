@@ -1,4 +1,4 @@
-# Heart-calculation-using-ECG-data
+# Heart-calculation-using-ECG-data (Digital Signal Processing Project)
 This code for how to calculate the heart rate of someone using his ECG data on Matlab and ploting His ECG in addition determining if his HR is normal or Abnormal
 
 ## Overview:
