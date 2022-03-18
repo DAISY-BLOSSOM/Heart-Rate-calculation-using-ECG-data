@@ -9,10 +9,12 @@ If it became more than 100 BPM we can decide that this person has tachycardia as
 ![image](https://user-images.githubusercontent.com/101879759/159040571-db8739d0-3c46-49f3-85f8-e087adbfd61d.png)
 
 ## Program operations:
-1- Select a file from any path you want, and it is extension may
-be .mat or .txt
+1- Select a file from any path you want, and it is extension may be .mat or .txt
+
 2- Plot the data
+
 3- Calculate heart rate in minutes and seconds
+
 4- Detect any myocardial dysfunction
 
 ## Running steps:
