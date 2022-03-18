@@ -1,0 +1,11 @@
+Source: record mitdb/121
+val has 2 rows (signals) and 3600 columns (samples/signal)
+Duration:     0:10
+Sampling frequency: 360 Hz  Sampling interval: 0.002777777778 sec
+Row	Signal	Gain	Base	Units
+1	MLII	200	0	mV
+2	V1	200	0	mV
+
+To convert from raw units to the physical units shown
+above, call the 'rdmat.m' function from the wfdb-matlab
+toolbox: https://physionet.org/physiotools/matlab/wfdb-app-matlab/
